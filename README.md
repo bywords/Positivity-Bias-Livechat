@@ -7,10 +7,12 @@ A keras implementation of deep learning approaches used in "Positivity Bias in C
 python main.py
 ```
 
-Before running the above script, it is required to specify threshold values used for time gap features at utils.py
+Before running the above script, it is required to specify threshold values used for time gap features at utils.py.
 
 
 ## Input data format
+
+We could not release our dataset due to the permission issues. Alternatively, below shows the input data format to assist with running our code in other dataset.
 
 ### data/chat_sequences.txt
 ```
