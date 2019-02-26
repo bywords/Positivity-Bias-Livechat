@@ -1,5 +1,5 @@
 # Positivity-Bias-Livechat
-A keras implementation of deep learning approaches used in "Positivity Bias in Customer Satisfaction Ratings", to appear at the International Web Conference '18 (TheWebConf, also known as WWW) Big Web Track
+A keras implementation of deep learning approaches used in "Positivity Bias in Customer Satisfaction Ratings", published at the International Web Conference '2018 (TheWebConf, also known as WWW) Big Web Track
 
 ## Usage
 
