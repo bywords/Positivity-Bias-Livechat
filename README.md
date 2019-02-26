@@ -12,7 +12,7 @@ Before running the above script, it is required to specify threshold values used
 
 ## Input data format
 
-We could not release our dataset due to the permission issues. Alternatively, below shows the input data format to assist with running our code in other dataset.
+We are not able to release our dataset due to the permission issues. Alternatively, the input data format is shown below to assist potential users with running the code in other dataset.
 
 ### data/chat_sequences.txt
 ```
